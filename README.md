@@ -118,5 +118,5 @@ dependencies:
 
 ## 👨‍💻 Autor
 
-Nikola Djurdjevic 629/2022
+Nikola Djurdjevic 629/2022  
 David Milic 636/2022
