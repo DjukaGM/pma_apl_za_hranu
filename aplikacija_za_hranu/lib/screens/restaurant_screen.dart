@@ -20,6 +20,7 @@ class RestaurantScreen extends StatelessWidget {
           final item = restaurant.foods[index];
 
           return ListTile(
+            leading: Text(item.emoji, style: const TextStyle(fontSize: 28)),
             title: Text(item.name),
             subtitle: Text('${item.price} RSD'),
             trailing: ElevatedButton(
